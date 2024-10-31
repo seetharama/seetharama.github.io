@@ -44,6 +44,7 @@ title: " "
             <li>Software engineering</li>
             <li>Building high-performance and scalable systems</li>
             <li>Building and nurturing high-performance teams and organizational cultures</li>
+            <li>Build the product from 0<span class="ellipsis">...</span>1</li>
             <li>Grow the product from 1<span class="ellipsis">...</span>k</li>
             <li>Zero Trust Networking & Network Security</li>
             <li>Application Acceleration & Content Delivery</li>
