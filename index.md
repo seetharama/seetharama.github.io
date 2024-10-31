@@ -13,36 +13,41 @@ title: " "
     <div style="margin-left:20px">
         <h3>Seetharama Sarma Ayyadevara</h3>
         <p>
-            A technologist and engineering leader with a proven track record in product development and software engineering. Expertise in network security, application acceleration, and zero trust access networking. Skilled at building and leading high-performance, globally distributed teams that consistently deliver innovative solutions.
+        Technologist and engineering leader with a proven track record in product development, software engineering, and engineering leadership.
         </p>
 
         <p>
-        Led cross-functional, geographically distributed teams composed of development engineers, SQA engineers, and operations engineers. Cultivated high-ownership team culture characterized by accountability, engagement, and employee satisfaction. Follows servant leadership principles, mentored and coached team members to grow into higher level roles and take on more responsibility.
+        Spearheaded the design, development, and deployment of multiple products and features now utilized daily by millions of users. Architected and implemented highly performant, scalable, and resilient systems.
         </p>
 
         <p>
-        Spearheaded the design, development, and deployment of multiple products and features now utilized daily by millions of users. Architected and implemented highly performant, scalable, and resilient systems. Managed a Tier 0 cloud service supporting hundreds of enterprise clients and millions of end-users, handling millions of daily requests.
+        Built and led cross-functional, geographically distributed teams composed of development engineers, SQA engineers, and operations engineers. Cultivated high-ownership team culture characterized by accountability, engagement, and employee satisfaction. Follows servant leadership principles. Mentored and coached team members to grow into higher level roles and to take on more responsibility.
+        </p>
+
+        <p>
+        Managed a critical Tier 0 cloud service handling hunders of millions of requests daily and supporting millions of enterprise users.
         </p>
 
         <h4>Notable Products:</h4>
         <p>
-        <b>Zero Trust Network Access Platform</b>: Conceived and built <a href="https://www.akamai.com/products/enterprise-application-access">Enterprise Application Access</a> at Soha Systems. Entrepirse Application Access is the indudstry's first cloud delivered, zero trust access networking platform. Soha was acquired by Akamai Technologies in 2016. Akamai Enterprise Application Access is one of the key component of Akamai's Zero Trust Access solution. Grew the product to hundreds of customers and to millions of annual recurring revenue.
+        <b>Zero Trust Network Access Platform</b>: Conceived and built <a href="https://www.akamai.com/products/enterprise-application-access">Enterprise Application Access</a> at Soha Systems. Entrepirse Application Access is the indudstry's first cloud delivered, zero trust access networking platform. Soha was acquired by <a href="https://www.akamai.com">Akamai Technologies</a>. Akamai Enterprise Application Access is one of the key component of Akamai's Zero Trust Access solution. Grew the product to hundreds of customers and to millions of annual recurring revenue.
         </p>
 
         <p>
-        <b>Application Acceleration Network</b>: Designed and built <a href="https://www.cdnetworks.com/web-performance/dynamic-web-acceleration/">Dynamic Web Acceleration</a> at Mrasu, Inc. This is a globally distributed application acceleration network with POPs across the globe providing acceleration to enterprise applications. Mrasu was acquired by CDNetworks in 2014. Dynamic Web Acceleration is one of the key component of CDNetworks' Application Acceleration Network.
+        <b>Application Acceleration Network</b>: Designed and built <a href="https://www.cdnetworks.com/web-performance/dynamic-web-acceleration/">Dynamic Web Acceleration</a> at Mrasu, Inc. This is a globally distributed application acceleration network providing acceleration to enterprise applications. Mrasu was acquired by <a href="https://www.cdnetworks.com">CDNetworks</a>. Dynamic Web Acceleration is one of the key component of CDNetworks' Application Acceleration Network.
         </p>
 
         <h4>Core Competencies:</h4>
         <ul>
-            <li>Strategic product development and engineering leadership</li>
-            <li>Design and implementation of high-performance, scalable systems</li>
+            <li>Engineering Leadership</li>
+            <li>Product development</li>
+            <li>Software engineering</li>
+            <li>Building high-performance and scalable systems</li>
             <li>Building and nurturing high-performance teams and organizational cultures</li>
-            <li>Scalable Product Growth Strategies</li>
+            <li>Grow the product from 1<span class="ellipsis">...</span>k</li>
             <li>Zero Trust Networking & Network Security</li>
             <li>Application Acceleration & Content Delivery</li>
-            <li>Large-scale cloud service operations and management</li>
-            <li>Adapts to emerging technologies, including AI and machine learning</li>
+            <li>Cloud Service Operations and Management</li>
         </ul>
         <h4>Patents:</h4>
         <ul>
