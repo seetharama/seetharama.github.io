@@ -30,13 +30,13 @@ google_scholar_id: MIdC8OQAAAAJ
 
 # Google Analytics
 google_analytics: G-S0QDXCJJ5P
-google_tag_manager: G-S0QDXCJJ5P
 
 # Build settings
 theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
